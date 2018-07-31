@@ -1,0 +1,7 @@
+#student prop
+#Tue Jul 31 21:29:24 KST 2018
+sname=Kim,hong,Park
+sno=1,2,3
+mat=70,70,60
+eng=60,60,40
+kor=60,60,50
